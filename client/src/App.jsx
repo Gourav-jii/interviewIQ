@@ -10,7 +10,7 @@ import InterviewPage from "./pages/InterviewPage";
 import InterviewHistory from "./pages/InterviewHistory";
 import Pricing from "./pages/Pricing";
 import InterviewReport from "./pages/InterviewReport";
-import { ServerUrl } from "./constants/config";
+import { ServerUrl } from "https://interviewiq-fgkq.onrender.com";
 
 function App() {
   const dispatch = useDispatch();
